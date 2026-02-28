@@ -38,7 +38,3 @@ Building **agentic workflows** and **intelligent automation systems** with AI. M
 - 💼 [LinkedIn](https://linkedin.com/in/vlod)
 - 🐦 [X/Twitter](https://x.com/vlod11c)
 - 📧 vladyslav.odynets@gmail.com
-
----
-
-*Building in public. Shipping fast. Multiple bets running.*
